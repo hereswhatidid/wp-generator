@@ -1,0 +1,18 @@
+{
+	"moduleType": "plugin",
+	"moduleName": "Magical Plugin",
+	"className": "Magical_Plugin",
+	"safeName": "magical-plugin",
+	"textDomain": "magical-plugin",
+	"version": "0.5.0",
+	"description": "This is cool.",
+	"author": "Gabe SHackle",
+	"email": "gabe.shackasdflkj.com",
+	"authorURL": "test.com",
+	"preprocessor": "less",
+	"includeJavascript": true,
+	"includeWidgets": false,
+	"includeShortcodes": true,
+	"includePostTypes": true,
+	"includeTaxonomies": false
+}
